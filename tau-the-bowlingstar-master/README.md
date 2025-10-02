@@ -7,4 +7,4 @@ repository e.g. on GitHub.
 
 If you want know more about the exciting moment when this course got released, [read my blog post](https://simonberner.rocks/2020/07/10/Released-My-First-Online-Course-on-TAU-0/)! 🙂
 
-Have fun with my course! 🥳
+Have fun with my course! 🥳 :)
